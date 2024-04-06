@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alpacalypss You can find out more about me on my [Portfolio webpage](alpacalypss.github.io "Link to my portfolio")
+- 👋 Hi, I’m @Alpacalypss You can find out more about me on my [Portfolio webpage](https://alpacalypss.github.io "Link to my portfolio")
 - 👀 I’m interested in general nerdery, learning as much as I can, and constantly looking to collaborate or employment opportunities.
 - 🌱 I’m currently learning Python via freecodecamp, and refactoring older JavaScript projects. I have completed Cheggs full-stack software engineering program, and am comfortable working in JavaScript so far.
 - 💞️ I’m looking to collaborate on anything I can!
